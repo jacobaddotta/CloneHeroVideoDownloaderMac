@@ -1,0 +1,6 @@
+# Install into the project venv:
+#   .venv/bin/python -m pip install -r requirements.txt
+yt-dlp>=2026.7.4      # older builds are blocked by YouTube outright
+numpy>=2.0
+requests>=2.32
+scipy>=1.14           # optional; only used if present

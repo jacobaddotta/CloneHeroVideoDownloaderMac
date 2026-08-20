@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>Clone Hero Video Downloader for Mac</string>
+    <key>CFBundleDisplayName</key><string>Clone Hero Video Downloader for Mac</string>
+    <key>CFBundleIdentifier</key><string>com.clonehero.videodownloader.mac</string>
+    <key>CFBundleVersion</key><string>2.0</string>
+    <key>CFBundleShortVersionString</key><string>2.0</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleExecutable</key><string>launcher</string>
+    <key>CFBundleIconFile</key><string>appicon</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>LSMinimumSystemVersion</key><string>11.0</string>
+</dict>
+</plist>

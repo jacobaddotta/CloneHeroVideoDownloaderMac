@@ -1,0 +1,15 @@
+{
+  "songs_folder": "",
+  "quality": "best1080",
+  "replace": false,
+  "auto_sync": true,
+  "min_conf": 0.3,
+  "official_360": false,
+  "sleep_interval": 0.0,
+  "max_sleep_interval": 0.0,
+  "limit_rate": "",
+  "workers": 4,
+  "sync_only": false,
+  "manual_map": "",
+  "only_list": ""
+}

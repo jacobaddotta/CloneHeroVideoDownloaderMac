@@ -1,0 +1,4 @@
+#!/bin/zsh
+APP_DIR="${0:A:h}"
+PROJECT="${APP_DIR:h:h:h}"
+exec "$PROJECT/launch-gui.sh"

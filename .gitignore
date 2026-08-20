@@ -1,0 +1,32 @@
+# --- never commit: personal data and credentials -------------------------
+# git does NOT support trailing comments on a pattern line, so every comment
+# here is on its own line.
+
+# your Songs folder path and local settings
+config.json
+# your YouTube session. Treat it like a password.
+cookies.txt
+.env
+
+# a symlink to your personal Clone Hero library
+Songs
+
+# --- local environment ---------------------------------------------------
+.venv/
+__pycache__/
+*.pyc
+
+# --- working files the app writes ----------------------------------------
+_selected_songs.txt
+_review_picks.txt
+_single_song.txt
+_picker.txt
+_test_*.txt
+*.part.mp4
+*.ini.tmp
+
+# --- backups -------------------------------------------------------------
+_backup_*/
+
+# --- macOS ---------------------------------------------------------------
+.DS_Store
