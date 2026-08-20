@@ -17,7 +17,7 @@ brew install ffmpeg deno
 Then clone the repo:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CloneHeroVideoDownloaderMac.git
+git clone https://github.com/jacobaddotta/CloneHeroVideoDownloaderMac.git
 ```
 
 Double-click **`Clone Hero Video Downloader for Mac.app`** (or `start.command`).
